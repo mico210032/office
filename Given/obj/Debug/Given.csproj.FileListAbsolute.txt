@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Given\Given\bin\Debug\Given.exe.config
+C:\Users\User\source\repos\Given\Given\bin\Debug\Given.exe
+C:\Users\User\source\repos\Given\Given\bin\Debug\Given.pdb
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.Form1.resources
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.Properties.Resources.resources
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.exe
+C:\Users\User\source\repos\Given\Given\obj\Debug\Given.pdb
